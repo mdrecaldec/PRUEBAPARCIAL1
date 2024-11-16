@@ -1,0 +1,20 @@
+h1 {
+    
+
+    font-family: Georgia;
+}
+
+div {
+    text-align: center;
+    align-items:flex-end;
+    size: 20px;
+    
+}
+
+h2{
+    flex-direction: row-reverse;
+
+}
+
+
+
